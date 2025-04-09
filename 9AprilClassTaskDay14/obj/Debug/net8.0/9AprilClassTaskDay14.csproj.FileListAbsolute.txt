@@ -1,0 +1,15 @@
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\bin\Debug\net8.0\9AprilClassTaskDay14.exe
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\bin\Debug\net8.0\9AprilClassTaskDay14.deps.json
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\bin\Debug\net8.0\9AprilClassTaskDay14.runtimeconfig.json
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\bin\Debug\net8.0\9AprilClassTaskDay14.dll
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\bin\Debug\net8.0\9AprilClassTaskDay14.pdb
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\9AprilClassTaskDay14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\9AprilClassTaskDay14.AssemblyInfoInputs.cache
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\9AprilClassTaskDay14.AssemblyInfo.cs
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\9AprilClassTaskDay14.csproj.CoreCompileInputs.cache
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\9AprilClassTaskDay14.sourcelink.json
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\9AprilClassTaskDay14.dll
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\refint\9AprilClassTaskDay14.dll
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\9AprilClassTaskDay14.pdb
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\9AprilClassTaskDay14.genruntimeconfig.cache
+C:\Users\l novbe\Desktop\Test\9AprilClassTaskDay14\9AprilClassTaskDay14\obj\Debug\net8.0\ref\9AprilClassTaskDay14.dll
