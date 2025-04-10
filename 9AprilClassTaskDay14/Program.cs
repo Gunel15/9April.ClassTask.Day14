@@ -6,7 +6,7 @@ namespace _9AprilClassTaskDay14
     {
         static void Main(string[] args)
         {
-                    List<Quiz> quizzes= new List<Quiz>();
+            List<Quiz> quizzes = new List<Quiz>();
         begin:
 
             Console.WriteLine("Menyunun elementləri \r\n\r\n1. Create new quiz\r\n2. Solve a quiz\r\n3. Show quizzes\r\n0. Quit");
@@ -27,23 +27,50 @@ namespace _9AprilClassTaskDay14
                         Console.WriteLine("Enter questions:");
                         string title = Console.ReadLine();
                         List<string> newVariants = new List<string>();
-                        for (int j = 0; j < 4; j++)
+                        for (int j = 1; j < 3; j++)
                         {
                             Console.WriteLine("Variantlari daxil edin:");
                             newVariants.Add(Console.ReadLine());
                         }
                         Console.WriteLine("Duzgun variant No:");
-                        int correct=int.Parse(Console.ReadLine());
+                        int correct = int.Parse(Console.ReadLine());
                         Question question = new Question(title, newVariants, correct);
                         newQuestion.Add(question);
                         Console.WriteLine("Question succesfully added!");
 
                     }
-                    Quiz quizz=new Quiz(name,newQuestion);
+                    Quiz quizz = new Quiz(name, newQuestion);
                     quizzes.Add(quizz);
                     break;
-            }
 
+                case "2":
+                    Console.WriteLine("Quiz Id daxil edin:)");
+                    int id=int.Parse(Console.ReadLine());
+                    foreach(var item in quizzes)
+                    {
+                       if(item.Id==id)
+                            Console.WriteLine(item);
+                    }
+
+                    break;
+
+
+
+
+
+
+
+
+                case "3":
+                    foreach (var quiz in quizzes)
+                        quiz.ShowQuizzes();
+                    break;
+
+
+
+
+            }
+            goto begin;
         }
 
 

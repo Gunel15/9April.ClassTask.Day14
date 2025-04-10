@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\",
+  "WorkspaceRootPath": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|c:\\users\\l novbe\\desktop\\test\\9aprilclasstaskday14\\9aprilclasstaskday14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\9april.classtask.day14\\9aprilclasstaskday14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|solutionrelative:9aprilclasstaskday14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|c:\\users\\l novbe\\desktop\\test\\9aprilclasstaskday14\\9aprilclasstaskday14\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\9april.classtask.day14\\9aprilclasstaskday14\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|solutionrelative:9aprilclasstaskday14\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|c:\\users\\l novbe\\desktop\\test\\9aprilclasstaskday14\\9aprilclasstaskday14\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\9april.classtask.day14\\9aprilclasstaskday14\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|solutionrelative:9aprilclasstaskday14\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|c:\\users\\l novbe\\desktop\\test\\9aprilclasstaskday14\\9aprilclasstaskday14\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|c:\\users\\v\u0026v\\desktop\\my repos\\9april.classtask.day14\\9aprilclasstaskday14\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9084C716-10E9-4068-96D7-D68D74214509}|9AprilClassTaskDay14\\9AprilClassTaskDay14.csproj|solutionrelative:9aprilclasstaskday14\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\9AprilClassTaskDay14\\Models\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\9AprilClassTaskDay14\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "9AprilClassTaskDay14\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\9AprilClassTaskDay14\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\9AprilClassTaskDay14\\Models\\BaseEntity.cs",
               "RelativeToolTip": "9AprilClassTaskDay14\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T07:52:13.612Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\9AprilClassTaskDay14\\Models\\Question.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\9AprilClassTaskDay14\\Models\\Question.cs",
               "RelativeDocumentMoniker": "9AprilClassTaskDay14\\Models\\Question.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\9AprilClassTaskDay14\\Models\\Question.cs*",
-              "RelativeToolTip": "9AprilClassTaskDay14\\Models\\Question.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\9AprilClassTaskDay14\\Models\\Question.cs",
+              "RelativeToolTip": "9AprilClassTaskDay14\\Models\\Question.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T07:44:37.311Z",
               "EditorCaption": ""
@@ -58,11 +58,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Quiz.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\9AprilClassTaskDay14\\Models\\Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\9AprilClassTaskDay14\\Models\\Quiz.cs",
               "RelativeDocumentMoniker": "9AprilClassTaskDay14\\Models\\Quiz.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\9AprilClassTaskDay14\\Models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\9AprilClassTaskDay14\\Models\\Quiz.cs",
               "RelativeToolTip": "9AprilClassTaskDay14\\Models\\Quiz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T07:40:43.632Z",
               "EditorCaption": ""
@@ -71,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\9AprilClassTaskDay14\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\9AprilClassTaskDay14\\Program.cs",
               "RelativeDocumentMoniker": "9AprilClassTaskDay14\\Program.cs",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Test\\9AprilClassTaskDay14\\9AprilClassTaskDay14\\Program.cs*",
+              "ToolTip": "C:\\Users\\V\u0026V\\Desktop\\my repos\\9April.ClassTask.Day14\\9AprilClassTaskDay14\\Program.cs*",
               "RelativeToolTip": "9AprilClassTaskDay14\\Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T07:37:56.693Z",
               "EditorCaption": ""
